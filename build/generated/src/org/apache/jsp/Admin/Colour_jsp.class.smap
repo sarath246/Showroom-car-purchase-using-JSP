@@ -1,0 +1,26 @@
+SMAP
+Colour_jsp.java
+JSP
+*S JSP
+*F
++ 0 Colour.jsp
+Admin/Colour.jsp
++ 1 HomePage.jsp
+Admin/HomePage.jsp
+*L
+5,5:50
+9:54,9
+10,6:63
+1#1,286:69
+15#0,4:354
+19,36:359
+54,10:395
+64:405,3
+65,15:408
+80,7:424
+86,2:431
+88,4:433,3
+92:445
+93:446,3
+94,5:449
+*E

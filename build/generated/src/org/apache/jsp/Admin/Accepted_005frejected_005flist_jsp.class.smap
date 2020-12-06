@@ -1,0 +1,28 @@
+SMAP
+Accepted_005frejected_005flist_jsp.java
+JSP
+*S JSP
+*F
++ 0 Accepted_rejected_list.jsp
+Admin/Accepted_rejected_list.jsp
++ 1 HomePage.jsp
+Admin/HomePage.jsp
+*L
+5,6:50
+10:55,9
+11,5:64
+1#1,289:69
+15#0,11:357
+26,7:369
+32,2:376
+34,2:378,3
+36,3:384
+39:387,3
+40,10:390
+50,7:401
+56,2:408
+58,2:410,3
+60:416
+61:417,3
+62,6:420
+*E
